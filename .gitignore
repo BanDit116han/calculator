@@ -1,0 +1,15 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iml
+*.class
+.DS_Store
+*.log
+
+# Файлы для локальной работы, не должны быть в репозитории
+ИНСТРУКЦИЯ_GITHUB.md
+УДАЛЕНИЕ_ФАЙЛОВ_ИЗ_GIT.md
+ГДЕ_НАЙТИ_CI_CD.md
+report.html
+*.html
+
